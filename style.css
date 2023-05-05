@@ -1,0 +1,25 @@
+body{
+    background:black ;
+    color:turquoise;
+}
+
+.heading{
+    width: 80%;
+    font-size: 25px;
+}
+
+#web_camera{
+    border: 3px solid turquoise;
+    width:300px;
+    height: 300px;
+}
+
+#result{
+    border: 1px dashed turquoise;
+    width:300px;
+    height: 300px;
+}
+
+.objects, #result_person, #result_accuracy{
+    color:rgb(0, 255, 255);
+}
